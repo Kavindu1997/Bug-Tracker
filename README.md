@@ -1,3 +1,17 @@
+![Dashboard](https://github.com/Kavindu1997/Bug-Tracker/assets/56603291/2871c341-4b86-41c2-a0fa-182829c80085)
+
+![IssueList](https://github.com/Kavindu1997/Bug-Tracker/assets/56603291/4ea1f1e6-b724-4db0-8fc8-7b66b5ad121c)
+
+![NewIssue](https://github.com/Kavindu1997/Bug-Tracker/assets/56603291/fcc472b0-c81d-484a-ba0e-c5dfadd494c4)
+
+![EditIssue](https://github.com/Kavindu1997/Bug-Tracker/assets/56603291/198b3351-df81-4507-8acb-60971355eb68)
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
