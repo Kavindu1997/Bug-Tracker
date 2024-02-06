@@ -44,5 +44,10 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10"
+  },
+  "overrides": {
+    "next-auth": {
+      "next": "13.0.0"
+    }
   }
 }
